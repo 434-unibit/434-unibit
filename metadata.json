@@ -1,0 +1,6 @@
+{
+  "name": "Statement Lens",
+  "description": "Professional bank statement OCR tool. Extract transactions from PDFs and images into structured CSV data with auto-categorization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
